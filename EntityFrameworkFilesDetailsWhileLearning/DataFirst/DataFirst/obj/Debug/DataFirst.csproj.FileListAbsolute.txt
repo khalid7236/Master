@@ -1,0 +1,10 @@
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\bin\Debug\DataFirst.exe.config
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\bin\Debug\DataFirst.exe
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\bin\Debug\DataFirst.pdb
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\bin\Debug\EntityFramework.dll
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\bin\Debug\EntityFramework.xml
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\obj\Debug\DataFirst.csprojResolveAssemblyReference.cache
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\obj\Debug\DataFirst.exe
+D:\KhalidFiles\EntityFrameworkFilesDetailsWhileLearning\DataFirst\DataFirst\obj\Debug\DataFirst.pdb
